@@ -15,5 +15,5 @@ struct AcademyInfo {
     std::string info2 = "2019 - 2021 IT Technician";
     std::string info3 = "2016 - 2017 Advanced Computing";
     std::string info4 = "2015 - 2016 Basics Computing";
-}
+};
 ```
