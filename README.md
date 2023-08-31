@@ -1,7 +1,8 @@
 
-<!-- <img src="github-metrics.svg" alt="Snake logo"> 
+<!-- <img src="github-metrics.svg" alt="Snake logo">
+Beatriz
 
-Day 1, Day2, Day 3, Day 4, Day 5, Day 6, Day 8, DAY 9,  Day 10, Day 11, Day 12, Day 13, Day 14
+Day 1, Day2, Day 3, Day 4, Day 5, Day 6, Day 8, DAY 9,  Day 10, Day 11, Day 12, Day 13, Day 14, Day 15
 -->
 ```cpp
 struct BasicsInfo {
