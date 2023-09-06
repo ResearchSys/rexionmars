@@ -23,5 +23,5 @@ struct AcademyInfo {
 ```
 -->
 <div align="center">
-<img src="imgs/Lj1v.gif" alt="Snake logo">
+<img src="imgs/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" alt="Snake logo">
 </div>
