@@ -22,3 +22,4 @@ struct AcademyInfo {
 };
 ```
 -->
+<img src="imgs/th2i72qu0rnt6hr9zn43.webp" alt="Snake logo">
