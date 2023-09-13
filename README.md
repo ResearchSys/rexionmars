@@ -21,7 +21,7 @@ struct AcademyInfo {
     std::string info4 = "2015 - 2016 Basics Computing";
 };
 ```
-<div align="">
-<img src="imgs/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" alt="Snake logo">
-</div>
 -->
+<div align="center">
+<img src="imgs/icons8-nvidia-48.png" alt="Snake logo">
+</div>
