@@ -26,5 +26,9 @@ struct AcademyInfo {
 <img src="imgs/icons8-nvidia-48.png" alt="Snake logo">
 </div>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<div align="center">
+    
+![](https://raw.githubusercontent.com/rexionmars/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rexionmars/stats/master/generated/overview.svg#gh-dark-mode-only)
+
+</div>
