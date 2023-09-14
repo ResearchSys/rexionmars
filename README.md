@@ -25,3 +25,6 @@ struct AcademyInfo {
 <div align="center">
 <img src="imgs/icons8-nvidia-48.png" alt="Snake logo">
 </div>
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
