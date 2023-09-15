@@ -24,6 +24,8 @@ struct AcademyInfo {
 -->
 <div align="center">
 <img src="imgs/icons8-nvidia-48.png" alt="Snake logo">
+
+[![wakatime](https://wakatime.com/badge/user/3e069972-32d4-4313-b701-da9af7893c22.svg)](https://wakatime.com/@3e069972-32d4-4313-b701-da9af7893c22)
 </div>
 
 <div align="center">
